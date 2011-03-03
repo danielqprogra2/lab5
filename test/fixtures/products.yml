@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  title: MyString
+  description: MyString
+  image_url: MyString
+  price: 1.5
+  projection: 1
+  amount: 1
+
+two:
+  id: 1
+  title: MyString
+  description: MyString
+  image_url: MyString
+  price: 1.5
+  projection: 1
+  amount: 1
